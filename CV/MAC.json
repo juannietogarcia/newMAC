@@ -89,6 +89,21 @@
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/487726e9-3d73-4f56-9668-15fa6effb622_1642148726716.jpg"
           }
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Director de Seguridad",
+        "startDate": "2013-09-01",
+        "finishDate": "2014-06-01",
+        "institution": {
+          "name": "UAB Universidad Autonoma de Barcelona - Post grade SchoolUAB ",
+          "description": "Universidad Autonoma de Barcelona - Post grade School\nPrivate Security Director management, Security and SafetyPrivate Security Director management, Security and Safety\n2013 - 20142013 - 2014\nTitulación: Director de seguridadTitulación: Director de seguridad\nActividades y grupos: Curso Superior de Gestión y Derecho de la SeguridadActividades y grupos: Curso Superior de Gestión y Derecho de la Seguridad\nHolistic aproach to corporate security building a Security Corporate Plan and an evacution plan from scratch.\n\nProfesional Acreditacion from Homeland Authority",
+          "image": {
+            "alt": "uab.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/b8ec537a-3c24-40a1-aa79-717480d3e1f0_uab.png"
+          }
+        }
       }
     ]
   },
