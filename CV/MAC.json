@@ -73,6 +73,22 @@
           "name": "IES Tetuan de las Victorias",
           "URL": "https://www.iestetuan.es/"
         }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": " Business Expert",
+        "startDate": "2018-09-01",
+        "finishDate": "2019-06-01",
+        "institution": {
+          "name": "The Power Business School",
+          "description": "The Power Business School\nBusiness Expert , Administración y gestión de empresas\nMetodologías Lean Startup y nuevos modelos de negocio.",
+          "URL": "https://www.thepowermba.com/es/",
+          "image": {
+            "alt": "1642148726716.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/487726e9-3d73-4f56-9668-15fa6effb622_1642148726716.jpg"
+          }
+        }
       }
     ]
   },
