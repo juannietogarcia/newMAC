@@ -20,16 +20,16 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juannietogarcia/"
+        "type": "other",
+        "URL": "https://entretrabajos.com/"
       },
       {
         "type": "twitter",
         "URL": "https://twitter.com/juannietogarcia"
       },
       {
-        "type": "other",
-        "URL": "https://entretrabajos.com/"
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/juannietogarcia/"
       }
     ],
     "interestingFacts": [
@@ -40,14 +40,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      },
-      {
-        "name": "English"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
@@ -63,17 +55,6 @@
       }
     ],
     "studies": [
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Técnico Especialista en Informática de Gestión",
-        "startDate": "1993-09-01",
-        "finishDate": "1995-06-01",
-        "institution": {
-          "name": "IES Tetuan de las Victorias",
-          "URL": "https://www.iestetuan.es/"
-        }
-      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
@@ -103,6 +84,17 @@
             "alt": "uab.png",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/b8ec537a-3c24-40a1-aa79-717480d3e1f0_uab.png"
           }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico Especialista en Informática de Gestión",
+        "startDate": "1993-09-01",
+        "finishDate": "1995-06-01",
+        "institution": {
+          "name": "IES Tetuan de las Victorias",
+          "URL": "https://www.iestetuan.es/"
         }
       }
     ]
