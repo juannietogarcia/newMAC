@@ -40,16 +40,18 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Office 365",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Hubspot",
+          "name": "Linux",
           "type": "technology"
         }
       }
@@ -105,6 +107,14 @@
         {
           "type": "linkedin",
           "URL": "https://www.linkedin.com/in/juannietogarcia/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Linux",
+          "type": "technology"
         }
       ]
     }
