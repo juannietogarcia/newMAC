@@ -15,7 +15,7 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4718b68c-e357-4de1-b020-cfcb99923213_jng.png"
       },
       "location": {
-        "notes": "Logroño - La Rioja - España - Europa"
+        "notes": "Logroño - La Rioja - España - Europa - Tierra"
       }
     },
     "relevantLinks": [
@@ -40,6 +40,14 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
