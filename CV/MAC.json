@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -17,8 +17,7 @@
       "location": {
         "country": "España",
         "region": "La Rioja",
-        "municipality": "Logroño",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Logroño"
       }
     },
     "relevantLinks": [
@@ -45,12 +44,10 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Professional working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -68,6 +65,15 @@
       }
     ],
     "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "PMP",
+        "startDate": "2012-03-01",
+        "institution": {
+          "name": "Project Management Institute"
+        }
+      },
       {
         "studyType": "unaccredited",
         "degreeAchieved": true,
@@ -136,7 +142,6 @@
         "Account Executive",
         "Customer Success & Account Management"
       ]
-    },
-    "status": "notAvailable"
+    }
   }
 }
