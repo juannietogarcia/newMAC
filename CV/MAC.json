@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -15,7 +15,10 @@
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4718b68c-e357-4de1-b020-cfcb99923213_jng.png"
       },
       "location": {
-        "notes": "Logroño - La Rioja - España - Europa - Tierra"
+        "country": "España",
+        "region": "La Rioja",
+        "municipality": "Logroño",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -42,10 +45,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -113,10 +118,19 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Hubspot",
+          "type": "technology"
+        },
+        {
           "name": "Linux",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Account Executive",
+        "Customer Success & Account Management"
       ]
-    }
+    },
+    "status": "notAvailable"
   }
 }
