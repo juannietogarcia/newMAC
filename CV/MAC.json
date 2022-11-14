@@ -56,6 +56,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "Hubspot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
