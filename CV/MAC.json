@@ -41,15 +41,330 @@
       }
     ]
   },
-  "knowledge": {
-    "languages": [
+  "experience": {
+    "jobs": [
       {
-        "name": "English"
+        "organization": {
+          "name": "Jul 2006 - Mar 2015 "
+        },
+        "roles": [
+          {
+            "name": "Business Development Manager",
+            "startDate": "2023-01-19",
+            "challenges": [
+              {
+                "description": "Business Development Manager"
+              }
+            ]
+          }
+        ]
       },
       {
-        "name": "Spanish"
+        "organization": {
+          "name": "18 yrs 4 mos"
+        },
+        "roles": [
+          {
+            "name": "ADR Formación",
+            "startDate": "2023-01-19",
+            "challenges": [
+              {
+                "description": "Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Apr 2006 - Jul 2007 "
+        },
+        "roles": [
+          {
+            "name": "Sales",
+            "startDate": "2023-01-19",
+            "challenges": [
+              {
+                "description": "Sales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred "
+        },
+        "roles": [
+          {
+            "name": "Scout ! Recruiting IT made with \"sentidiño\"",
+            "startDate": "2021-08-01",
+            "challenges": [
+              {
+                "description": "Helping people in IT to find their dreamt job.\n\nHelping companies to find talent that fits not only technically."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ginzo Technologies "
+        },
+        "roles": [
+          {
+            "name": "Proyectos y Consultoría",
+            "startDate": "2020-10-01",
+            "finishDate": "2021-08-31",
+            "challenges": [
+              {
+                "description": " helped me get this job"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Full-time"
+        },
+        "roles": [
+          {
+            "name": "Sales Manager",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Sales Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stampymail"
+        },
+        "roles": [
+          {
+            "name": "Business Development Manager",
+            "startDate": "2019-05-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "At Stampymail we were creating an email signature manager to help companies to improve their branging and multiply the value of their email communications."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The New Ads"
+        },
+        "roles": [
+          {
+            "name": "Responsable Desarrrollo de Negocio",
+            "startDate": "2018-04-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "The New Ads nació en el 2013 para hacer posible a cualquier empresa de La Rioja Baja y la Ribera de Navarra acceder a una nueva forma de publicidad a través de su red de Cartelería Digital.\n\nCómo Responsable de Desarrollo de Negocio mi objetivo es conseguir que nuestro equipo comercial aporte a nuestros clientes un abanico de soluciones de publicidad local que les permitan invertir en comunicar y crecer.\n\nPara prestar nuestros servicios estamos ampliando un equipo con pasión por la comunicación en sus diversas formas y creamos alianzas con otros medios y agencias que nos permitan optimizar la inversión del cliente. \n\n"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "APGP | Asociación de Profesionales de la Gestión de Proyectos"
+        },
+        "roles": [
+          {
+            "name": "Teacher at Practical aproach to project management with PMI metodology",
+            "startDate": "2016-11-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "A train for profesionals and unemployed to better understand PMI metodolgy trough a project. PBL metodology."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "SIforTI Consulting"
+        },
+        "roles": [
+          {
+            "name": "IT Consultant",
+            "startDate": "2016-11-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "Helping SME to improve their IT and Cibersecurity management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "iDispensa"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2016-10-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "iDispensa is a Start up looking for a business model that allow us to make better Spanish National Healthcare System helping Oficinas de Farmacia economically sustainable and giving better services troughout ICT tools.\n\nIn this moment we want Oficinas de Farmacia can sell healthy products and serve OTC medicines online:\n- legally\n- easylly\n- As soon as possible\n- With a win-win business model"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hiberus Osaba"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "Business development.\nKey account management.\nHelping Public administration and LME outsourcing their software development and sistem management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Universidad Popular de Logroño"
+        },
+        "roles": [
+          {
+            "name": "Teacher",
+            "startDate": "2014-10-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "Internet for families workshop"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "9 yrs"
+        },
+        "roles": [
+          {
+            "name": "masscomm innova s.l.",
+            "startDate": "2006-07-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "Business Development Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Author - Teacher in \"Introducción a Linux (Ubuntu)\"",
+            "startDate": "2002-06-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Author - Teacher in \"Introducción a Linux (Ubuntu)\""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acotel"
+        },
+        "roles": [
+          {
+            "name": "Key Account Manager - Partner",
+            "startDate": "2000-04-01",
+            "finishDate": "2006-03-31",
+            "challenges": [
+              {
+                "description": "Design and development of Managed Services.\nLa Rioja and Navarra office management.\n\nWhen I arrive to Acotel as a System technician and the company were a 40 profesional services team. When I leave Acotel, I was partner, member of the board and we were a group of 5 companies with 10 M € net income and more than 400 employees. "
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atos KPMG Consulting - Sistemática Integrada"
+        },
+        "roles": [
+          {
+            "name": "System Engineer",
+            "startDate": "1999-04-01",
+            "finishDate": "2000-04-30",
+            "challenges": [
+              {
+                "description": "Unix and Oracle manteinance and support in Telefonica Data and Viva Tours"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TQS"
+        },
+        "roles": [
+          {
+            "name": "System Engineer",
+            "startDate": "1998-12-01",
+            "finishDate": "1999-04-30",
+            "challenges": [
+              {
+                "description": "Cajamadrid online banking project for Telefónica (Sun Solaris)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BPM - ACCENTURE"
+        },
+        "roles": [
+          {
+            "name": "System Operator",
+            "startDate": "1996-05-01",
+            "finishDate": "1998-12-31",
+            "challenges": [
+              {
+                "description": "System operator in \"Mercados\" project where Spanish public banks unify their Stock operation market systems.\n\nHP-UX, Sybase, Control-M"
+              }
+            ]
+          }
+        ]
       }
-    ],
+    ]
+  },
+  "knowledge": {
     "hardSkills": [
       {
         "skill": {
@@ -137,10 +452,6 @@
           "name": "Linux",
           "type": "technology"
         }
-      ],
-      "preferredRoles": [
-        "Account Executive",
-        "Customer Success & Account Management"
       ]
     }
   }
