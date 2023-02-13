@@ -469,6 +469,10 @@
           "name": "Linux",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Account Executive",
+        "Technical Recruitment"
       ]
     },
     "status": "notAvailable"
