@@ -45,22 +45,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Jul 2006 - Mar 2015 "
-        },
-        "roles": [
-          {
-            "name": "Business Development Manager",
-            "startDate": "2023-01-19",
-            "challenges": [
-              {
-                "description": "Business Development Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "18 yrs 4 mos"
         },
         "roles": [
@@ -86,6 +70,22 @@
             "challenges": [
               {
                 "description": "Sales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Jul 2006 - Mar 2015 "
+        },
+        "roles": [
+          {
+            "name": "Business Development Manager",
+            "startDate": "2023-01-01",
+            "challenges": [
+              {
+                "description": "Business Development Manager"
               }
             ]
           }
