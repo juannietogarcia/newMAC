@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,54 +11,31 @@
       "title": "Scouting que es gerundio",
       "description": "Me encanta conectar personas y empresas, así que Scout, Recruiter o Comercial son cosas que hago con gusto.",
       "avatar": {
-        "alt": "jng.png",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4718b68c-e357-4de1-b020-cfcb99923213_jng.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/4718b68c-e357-4de1-b020-cfcb99923213_jng.png",
+        "alt": "jng.png"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJsZCzMEGrWg0RcIgWipFSgvk)",
         "country": "España",
         "region": "La Rioja",
         "municipality": "Logroño"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://entretrabajos.com/"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/juannietogarcia"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/juannietogarcia/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Me gusta organizar eventos ",
         "fact": "como Riojaparty o Zurracapoteconf"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://entretrabajos.com/"
+      }
     ]
   },
   "experience": {
     "jobs": [
-      {
-        "organization": {
-          "name": "18 yrs 4 mos"
-        },
-        "roles": [
-          {
-            "name": "ADR Formación",
-            "startDate": "2023-01-19",
-            "challenges": [
-              {
-                "description": "Sales Manager"
-              }
-            ]
-          }
-        ]
-      },
       {
         "organization": {
           "name": "Apr 2006 - Jul 2007 "
@@ -70,6 +47,22 @@
             "challenges": [
               {
                 "description": "Sales"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "18 yrs 4 mos"
+        },
+        "roles": [
+          {
+            "name": "ADR Formación",
+            "startDate": "2023-01-19",
+            "challenges": [
+              {
+                "description": "Sales Manager"
               }
             ]
           }
@@ -178,23 +171,6 @@
       },
       {
         "organization": {
-          "name": "APGP | Asociación de Profesionales de la Gestión de Proyectos"
-        },
-        "roles": [
-          {
-            "name": "Teacher at Practical aproach to project management with PMI metodology",
-            "startDate": "2016-11-01",
-            "finishDate": "2016-12-31",
-            "challenges": [
-              {
-                "description": "A train for profesionals and unemployed to better understand PMI metodolgy trough a project. PBL metodology."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "SIforTI Consulting"
         },
         "roles": [
@@ -205,6 +181,23 @@
             "challenges": [
               {
                 "description": "Helping SME to improve their IT and Cibersecurity management."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "APGP | Asociación de Profesionales de la Gestión de Proyectos"
+        },
+        "roles": [
+          {
+            "name": "Teacher at Practical aproach to project management with PMI metodology",
+            "startDate": "2016-11-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "A train for profesionals and unemployed to better understand PMI metodolgy trough a project. PBL metodology."
               }
             ]
           }
@@ -368,13 +361,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "EN",
+        "level": "Full professional proficiency"
       },
       {
-        "name": "French"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "FR",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -393,6 +389,37 @@
     ],
     "studies": [
       {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": " Business Expert",
+        "startDate": "2018-09-01",
+        "institution": {
+          "name": "The Power Business School",
+          "description": "The Power Business School\nBusiness Expert , Administración y gestión de empresas\nMetodologías Lean Startup y nuevos modelos de negocio.",
+          "URL": "https://www.thepowermba.com/es/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/487726e9-3d73-4f56-9668-15fa6effb622_1642148726716.jpg",
+            "alt": "1642148726716.jpg"
+          }
+        },
+        "finishDate": "2019-06-01"
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Director de Seguridad",
+        "startDate": "2013-09-01",
+        "institution": {
+          "name": "UAB Universidad Autonoma de Barcelona - Post grade SchoolUAB ",
+          "description": "Universidad Autonoma de Barcelona - Post grade School\nPrivate Security Director management, Security and SafetyPrivate Security Director management, Security and Safety\n2013 - 20142013 - 2014\nTitulación: Director de seguridadTitulación: Director de seguridad\nActividades y grupos: Curso Superior de Gestión y Derecho de la SeguridadActividades y grupos: Curso Superior de Gestión y Derecho de la Seguridad\nHolistic aproach to corporate security building a Security Corporate Plan and an evacution plan from scratch.\n\nProfesional Acreditacion from Homeland Authority",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/b8ec537a-3c24-40a1-aa79-717480d3e1f0_uab.png",
+            "alt": "uab.png"
+          }
+        },
+        "finishDate": "2014-06-01"
+      },
+      {
         "studyType": "certification",
         "degreeAchieved": false,
         "name": "PMP",
@@ -402,45 +429,22 @@
         }
       },
       {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": " Business Expert",
-        "startDate": "2018-09-01",
-        "finishDate": "2019-06-01",
-        "institution": {
-          "name": "The Power Business School",
-          "description": "The Power Business School\nBusiness Expert , Administración y gestión de empresas\nMetodologías Lean Startup y nuevos modelos de negocio.",
-          "URL": "https://www.thepowermba.com/es/",
-          "image": {
-            "alt": "1642148726716.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/487726e9-3d73-4f56-9668-15fa6effb622_1642148726716.jpg"
-          }
-        }
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Director de Seguridad",
-        "startDate": "2013-09-01",
-        "finishDate": "2014-06-01",
-        "institution": {
-          "name": "UAB Universidad Autonoma de Barcelona - Post grade SchoolUAB ",
-          "description": "Universidad Autonoma de Barcelona - Post grade School\nPrivate Security Director management, Security and SafetyPrivate Security Director management, Security and Safety\n2013 - 20142013 - 2014\nTitulación: Director de seguridadTitulación: Director de seguridad\nActividades y grupos: Curso Superior de Gestión y Derecho de la SeguridadActividades y grupos: Curso Superior de Gestión y Derecho de la Seguridad\nHolistic aproach to corporate security building a Security Corporate Plan and an evacution plan from scratch.\n\nProfesional Acreditacion from Homeland Authority",
-          "image": {
-            "alt": "uab.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/04/26/b8ec537a-3c24-40a1-aa79-717480d3e1f0_uab.png"
-          }
-        }
-      },
-      {
         "studyType": "officialDegree",
         "degreeAchieved": true,
         "name": "Técnico Especialista en Informática de Gestión",
         "startDate": "1993-09-01",
-        "finishDate": "1995-06-01",
         "institution": {
           "name": "IES Tetuan de las Victorias",
           "URL": "https://www.iestetuan.es/"
+        },
+        "finishDate": "1995-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
         }
       }
     ]
@@ -449,8 +453,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/juannietogarcia/"
+          "URL": "https://www.linkedin.com/in/juannietogarcia/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://twitter.com/juannietogarcia",
+          "type": "other"
+        }
+      ],
+      "contactMails": [
+        "juan.nieto@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "659937749",
+          "countryCode": "+34"
         }
       ]
     },
@@ -469,6 +486,10 @@
         "Account Executive",
         "Technical Recruitment"
       ]
-    }
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Scout @ Manfred\n\nManfred_Ene21_Scout"
   }
 }
