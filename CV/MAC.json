@@ -376,6 +376,12 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "BI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Hubspot",
           "type": "technology"
         }
