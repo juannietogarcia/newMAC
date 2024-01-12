@@ -11,8 +11,8 @@
       "title": "Gestión de proyectos | Desarrollo de negocio | B2B | Recruiting | Talento | People First",
       "description": "Si me conoces ya sabrás que:\n- Me interesa la tecnología, pero sobre todo el impacto positivo que, bien utilizada, puede tener sobre la vida de las personas.\n- Me apasiona aprender y sé que la mejor manera de aprender es cuando te toca enseñarlo a otros.\n\nSigo formándome así que:\n- acabo de empezar Business Coding con The Power Business School\n- estoy ampliando mi formación en gestión de proyectos con PM2 y P3.express the minimalist project management system\n\nAyudo a empresas gestionando y ejecutando proyectos especialmente en áreas de marketing, comercial e IT.\n\nSi no me conoces, podemos intentar resolverlo\nhttps://calendly.com/juan-nieto-garcia/30min\n\nTanto si nos conocemos, como sino, y se te ocurre algo en lo que pueda ayudarte, o simplemente quieres que nos conozcamos (o retomemos el contacto estaré encantado de que busques un hueco en mi agenda https://calendly.com/juan-nieto-garcia/30min",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/49d1be47-2a9b-43b1-8643-b1a6c53f682c_linkedin-photo-3172.linkedin-photo-3172",
-        "alt": "24/01/12/49d1be47-2a9b-43b1-8643-b1a6c53f682c_linkedin-photo-3172.linkedin-photo-3172"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/ef9cc886-9c68-4978-8300-0a3a188fe407_linkedin-photo-3172.linkedin-photo-3172",
+        "alt": "24/01/12/ef9cc886-9c68-4978-8300-0a3a188fe407_linkedin-photo-3172.linkedin-photo-3172"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5cm-xm2rWg0RYBTB_B6NQE4)",
@@ -43,6 +43,287 @@
       {
         "type": "other",
         "URL": "https://entretrabajos.com/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "entretrabajos.com"
+        },
+        "roles": [
+          {
+            "name": "Consultor autónomo",
+            "startDate": "2023-04-01",
+            "challenges": [
+              {
+                "description": "- Demos de tecnología para La Cabina de Telefónica\n- Gestión de proyecto de implantación de software para venta de entradas\n- Orientación profesional y selección de personal"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/0873cab5-3c66-4c60-b58b-59ed65ed6895_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/0873cab5-3c66-4c60-b58b-59ed65ed6895_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Scout ! Recruiting IT hecho con \"sentidiño\"",
+            "startDate": "2021-08-01",
+            "finishDate": "2023-03-31",
+            "challenges": [
+              {
+                "description": "El día a día era el ciclo completo de una oferta de empleo desde el ajuste de necesidades y expectativas por parte de la empresa, a la redacción de la oferta, búsqueda en base de datos interna, atracción de nuevos candidatos mediante acciones inbound en canales y comunidades tech. Adicionalmente la selección de las tres candidaturas más ajustadas y el acompañamiento a candidatos y empresa para el cierre con éxito de la propuesta.\n\nTambién participé en el proyecto de uno de los primeros procesos de RPO (en Manfred y sus nombres se llamaba Implant) como Scout asignado a la empresa Actia Systems. Ante la escasez de perfiles en la base de datos de Manfred hubo que expandir los canales de búsqueda y encontrar nuevas comunidades relacionadas con el desarrollo C++ para sistemas embarcados.\n\nUno de los logros de los que más orgulloso estoy es el haber organizado un taller de \"Mis primeras líneas de código para recruiters\" en la que conseguí que 6 personas del equipo de scouting obtuvieran un diploma como programadores utilizando la plataforma the hour of code."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Ginzo Technologies",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/b473f47f-6de0-4432-85c2-26e29d09ec31_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/b473f47f-6de0-4432-85c2-26e29d09ec31_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Proyectos y Consultoría",
+            "startDate": "2020-10-01",
+            "finishDate": "2021-08-31",
+            "challenges": [
+              {
+                "description": "Gestión del proyecto \"Consultoría de selección de una solución GMAO/CMMS para el gestor de infraestructuras ferroviarias de Euskadi\" que gestiona una red de más de 180 km de vias y más de 30 estaciones con todos sus equipamientos.\n\nInterlocución con los stakeholders, entrevistas con las áreas para identificar software utilizado, necesidades e interacciones. Analisis desarrollar vs comprar e investigación de soluciones de mercado."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ADR Formación",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/298b4aa4-34be-4cdb-abdf-ee416c2dbe40_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/298b4aa4-34be-4cdb-abdf-ee416c2dbe40_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Gestión de proyectos formativos elearning",
+            "startDate": "2019-11-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Ayudar a los clientes de ADR Formación a obtener el máximo rendimiento de nuestras soluciones y a nuevas empresas a que conozcan nuestras soluciones."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stampymail",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/d2575148-7810-49b4-b7ee-f051d11997d8_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/d2575148-7810-49b4-b7ee-f051d11997d8_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de desarrollo del negocio",
+            "startDate": "2019-05-01",
+            "finishDate": "2019-10-31",
+            "challenges": [
+              {
+                "description": "En Stampymail estan creando la herramienta para que la firma de correo electrónico sea una herramienta fácil de gestionar para mejorar la imagen de marca, el cumplimiento legal, la comunicación y las ventas de empresas y organizaciones.\n\nAnálisis de mercado, comparativas con otras herramientas, gestión de primeras demos con clientes. y feedback al equipo de desarrollo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The New Ads",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/cf596df8-bb8e-46a8-b079-1659c5af7e14_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/cf596df8-bb8e-46a8-b079-1659c5af7e14_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable Desarrrollo de Negocio",
+            "startDate": "2018-04-01",
+            "finishDate": "2019-05-31",
+            "challenges": [
+              {
+                "description": "The New Ads nació en el 2013 para hacer posible a cualquier empresa de La Rioja Baja y la Ribera de Navarra acceder a una nueva forma de publicidad a través de su red de Cartelería Digital.\n\nCómo Responsable de Desarrollo de Negocio mi objetivo es conseguir que nuestro equipo comercial aporte a nuestros clientes un abanico de soluciones de publicidad local que les permitan invertir en comunicar y crecer.\n\nDesarrollo y gestión de un sistema de trabajo para grandes cuentas.\n\nPara prestar nuestros servicios estamos ampliando un equipo con pasión por la comunicación en sus diversas formas y creamos alianzas con otros medios y agencias que nos permitan optimizar la inversión del cliente.\n\nAumentamos las ventas un 30%, aumentamos el ingreso medio por cliente un 10%, iniciamos la gestión de servicios 360 a grandes cuentas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "iDispensa",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/79e573ac-ad5c-49be-a9f3-a854db1303db_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/79e573ac-ad5c-49be-a9f3-a854db1303db_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Business Development Manager and co-founder",
+            "startDate": "2016-10-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "iDispensa is an startup helping pharmacy offices to\ndispensing medicines online and sell other health products trough Internet:\n- legally\n- easily\n- a fast time to market\n- with a shared revenue business model"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Hiberus Osaba",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/e2de5a60-6776-432d-b3df-da6a30abf4f1_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/e2de5a60-6776-432d-b3df-da6a30abf4f1_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Gerente de gestión de proyectos",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-09-30",
+            "challenges": [
+              {
+                "description": "Dirección de cuentas, proyectos y servicios tanto en AAPP como empresa en el ámbito de La Rioja.\n\nAumento de la facturación un 25%, aumento del equipo un 10%"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "masscomm innova s.l.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/1b00bdb1-ea63-47e8-ac12-98b07cf41bcf_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/1b00bdb1-ea63-47e8-ac12-98b07cf41bcf_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Director de operaciones y desarrollo de negocio.",
+            "startDate": "2006-07-01",
+            "finishDate": "2015-03-31",
+            "challenges": [
+              {
+                "description": "Responsable de la selección de productos.\nResponsable del soporte preventa y postventa.\nDiseño de nuevos servicios.\nDesarrollo de negocio y marketing de producto.\nEvolución desde 2M € a 12M €"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "masscomm innova s.l.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/711f4415-cdfd-43a0-8f75-68ef9be9040e_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/711f4415-cdfd-43a0-8f75-68ef9be9040e_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Comercial",
+            "startDate": "2006-04-01",
+            "finishDate": "2007-07-31",
+            "challenges": [
+              {
+                "description": "Gestión comercial de todas las cuentas de masscomm innova (más de 200 clientes a nivel nacional). A mi entrada 1,2 M €, en mi promoción 2 M €\nCaptación de nuevos clientes."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ADR Formación",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/01/12/06c6ce61-47c8-4603-aaf8-08dd87b8fd1f_linkedin-photo-3172.linkedin-photo-3172",
+            "alt": "24/01/12/06c6ce61-47c8-4603-aaf8-08dd87b8fd1f_linkedin-photo-3172.linkedin-photo-3172"
+          }
+        },
+        "roles": [
+          {
+            "name": "Autor-tutor Curso Introducción a Linux (Ubuntu)",
+            "startDate": "2002-06-01",
+            "finishDate": "2020-09-30",
+            "challenges": [
+              {
+                "description": "Fruto de la colaboración entre la Federación de Empresario y la Asociación de Usuarios de Linux de La Rioja diseñe junto a Jose Ramón Palacios y Carmen Méndez un curso de introducción a Linux basado en varias distribuciones. En sucesivas ediciones con la ayuda de Abel Yecora y en la última actualización de Roberto Pérez Asir."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Acotel"
+        },
+        "roles": [
+          {
+            "name": "Gerente de cuentas",
+            "startDate": "2000-04-01",
+            "finishDate": "2006-03-31",
+            "challenges": [
+              {
+                "description": "Gestión de servicios de operación de sistemas.\nGerente de la oficina de Logroño."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Consultancy Companies"
+        },
+        "roles": [
+          {
+            "name": "Técnico de Sistemas",
+            "startDate": "1998-12-01",
+            "finishDate": "2000-04-30",
+            "challenges": [
+              {
+                "description": "Sistematica integrada luego Atos KPMG\nTécnico de sistemas Unix (Solaris) y soporte a explotación de sistemas para los clientes Telefónica Data y Viva Tours. Gestión de backups, instalación de parches...\n\nTQS para Telefonica Sistemas para Cajamadrid\nExplotación y soporte a los sistemas de banca electrónica de Cajamadrid (Solaris SUN E-10K)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BPM - ACCENTURE"
+        },
+        "roles": [
+          {
+            "name": "Operador de sistemas de producción",
+            "startDate": "1996-05-01",
+            "finishDate": "1998-12-31",
+            "challenges": [
+              {
+                "description": "Operación de sistemas Unix en la sala integrada de mercados de Argentaria.\nBPM (Grupo Andersen Consulting)  Outsourcing de las Salas de Mercados Financieros que Andersen Consulting realiza para Argentaria en el equipo de gestión de la producción en entornos HP-UX Sybase utilizando además HP-Openview y Control-M\n"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
