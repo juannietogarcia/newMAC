@@ -42,7 +42,8 @@
       },
       {
         "type": "other",
-        "URL": "https://entretrabajos.com/"
+        "URL": "https://entretrabajos.com/",
+        "description": "Blog"
       }
     ]
   },
@@ -447,6 +448,12 @@
       ],
       "contactMails": [
         "juan.nieto@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "659937749",
+          "countryCode": "+34"
+        }
       ]
     },
     "preferences": {
