@@ -349,31 +349,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Django",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Microsoft Power BI",
+          "name": "Hubspot",
           "type": "technology"
         }
       }
@@ -479,7 +455,7 @@
       ],
       "preferredRoles": [
         "Account Executive",
-        "Technical Recruitment"
+        "Sales & Business Development"
       ]
     },
     "status": "searchingActively",
@@ -492,23 +468,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "AWS",
-        "type": "technology"
-      },
-      {
-        "name": "Django",
-        "type": "technology"
-      },
-      {
-        "name": "Google Cloud",
-        "type": "technology"
-      },
-      {
-        "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Microsoft Power BI",
+        "name": "Hubspot",
         "type": "technology"
       }
     ],
