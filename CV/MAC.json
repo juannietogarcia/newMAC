@@ -59,7 +59,17 @@
             "startDate": "2023-04-01",
             "challenges": [
               {
-                "description": "- Demos de tecnología para La Cabina de Telefónica\n- Gestión de proyecto de implantación de software para venta de entradas\n- Orientación profesional y selección de personal"
+                "description": "Algunos proyectos:\n- Selección de personal IT (técnico y de desarrollo de negocio)\n- Demos de tecnología para La Cabina de Telefónica\n- Gestión de proyecto de implantación de software para venta de entradas\n- Soporte comercial e implantación CRMs"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hubspot",
+                "type": "technology"
+              },
+              {
+                "name": "Monday",
+                "type": "technology"
               }
             ]
           }
