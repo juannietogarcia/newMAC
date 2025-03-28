@@ -444,6 +444,10 @@
     "preferences": {
       "preferredCompetences": [
         {
+          "name": "Atlassian",
+          "type": "technology"
+        },
+        {
           "name": "Hubspot",
           "type": "technology"
         },
