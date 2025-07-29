@@ -400,6 +400,12 @@
           "name": "Aprendizaje Continuo",
           "type": "practice"
         }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
       }
     ]
   },
