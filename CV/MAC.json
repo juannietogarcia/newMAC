@@ -31,18 +31,6 @@
       {
         "type": "linkedin",
         "URL": "https://linkedin.com/in/juannietogarcia"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/juannietogarcia"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/juannietogarcia"
-      },
-      {
-        "type": "other",
-        "URL": "https://entretrabajos.com/"
       }
     ]
   },
@@ -421,14 +409,6 @@
         {
           "URL": "https://linkedin.com/in/juannietogarcia",
           "type": "linkedin"
-        },
-        {
-          "URL": "https://github.com/juannietogarcia",
-          "type": "github"
-        },
-        {
-          "URL": "https://twitter.com/juannietogarcia",
-          "type": "twitter"
         }
       ],
       "contactMails": [
